@@ -1,0 +1,11 @@
+.fancy {
+  color: red;
+  font-style: italic;
+}
+
+.best{
+  border-radius: 30px;
+  border-style:solid;
+  border-color: red;
+  border-width: thick;
+}
